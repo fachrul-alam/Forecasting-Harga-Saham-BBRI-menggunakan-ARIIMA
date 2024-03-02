@@ -1,2 +1,4 @@
 # Forecasting-Harga-Saham-BBRI-menggunakan-ARIIMA
-SFSFS
+Bank Rakyat Indonesia, Tbk (BBRI) mencatatkan rekor laba bersih sepanjang tahun 2023 dengan kenaikan mencapai Rp 60,2 triliun, naik 17,54% dibandingkan dengan tahun sebelumnya sebesar Rp 51,40 triliun (CNBC, 2024). Sementara itu, harga saham BBRI telah menunjukkan kinerja yang baik, memberikan keuntungan sebesar 97,63% selama lima tahun terakhir (BEI, 2024).
+
+Berdasarkan hal tersebut, peneliti tertarik untuk melakukan forecasting saham BBRI menggunakan metode ARIMA. Langkah ini diambil untuk memprediksi perilaku harga saham BBRI di masa mendatang berdasarkan data historisnya. Dengan menggunakan metode ARIMA, diharapkan dapat memberikan perkiraan yang akurat mengenai harga saham BBRI, sehingga investor dan pemangku kepentingan lainnya dapat membuat keputusan investasi yang lebih baik.
